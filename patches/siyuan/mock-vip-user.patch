@@ -21,7 +21,7 @@ index 3e546a7c5c31f3c51157e9b9bda15b0ce9f7ed73..2564cf72da0248cf59a589417e94c549
 +
 +	user := &conf.User{
 +			UserId: "0",
-+			UserName: "_",
++			UserName: "xyhome",
 +			UserAvatarURL: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
 +			UserHomeBImgURL: "",
 +			UserTitles: []*conf.UserTitle{},
